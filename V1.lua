@@ -16,6 +16,7 @@ wait(3)
 game.StarterGui:SetCore("SendNotification", {
 Title = "Loaded!";
 Text = "Enjoy."; 
+Icon = "http://www.roblox.com/asset/?id=5102333509"
 Duration = 5;
 Button1 = "YEET!";
 })
